@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_TPI_MazzoniAlex_Laboratorio", "AS2021_4H_TPI_MazzoniAlex_Laboratorio\AS2021_4H_TPI_MazzoniAlex_Laboratorio.csproj", "{5A3E9F21-4FD3-4250-9702-071D634C7546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3E9F21-4FD3-4250-9702-071D634C7546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3E9F21-4FD3-4250-9702-071D634C7546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3E9F21-4FD3-4250-9702-071D634C7546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3E9F21-4FD3-4250-9702-071D634C7546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710086E8-B7BE-4DBE-9383-02F45517FA3E}
+	EndGlobalSection
+EndGlobal
